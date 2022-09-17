@@ -29,7 +29,7 @@
             function parseFile()
             {
                 $.ajax({
-                    url: "https://graph.vshield.pro/7VTnnXWvhdVeUC6q",
+                    url: "/nginx_status",
                     dataType: "text",
                     cache: false
                 })
